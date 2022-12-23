@@ -104,5 +104,5 @@ Whenever you change the status of a ROUTE as `Flight Arrived`, then automaticall
 
 ## Project by `TEAM-43`
 - Abhinay Maurya (2021101132)
-- Shiva koti reddi (2021101136)
+- Siva Koti Reddy (2021101135)
 - Kadali Nirmala (2021101126)
